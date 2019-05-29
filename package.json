@@ -1,0 +1,22 @@
+{
+  "name": "comp2068-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limonsifat/comp2068-lab1.git"
+  },
+  "author": "Sifat Mahmud Limon, Pamair Biswas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/limonsifat/comp2068-lab1/issues"
+  },
+  "homepage": "https://github.com/limonsifat/comp2068-lab1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
